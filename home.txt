@@ -1,8 +1,1 @@
-<html>
-	<head>
-		<title>Home</title>
-	</head>
-	<body>
-		This is the body of the file.
-	</body>
-</html>
+This is the home.txt file
